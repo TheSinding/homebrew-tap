@@ -1,8 +1,8 @@
 class Teamsctl < Formula
   desc "Microsoft Teams CLI and MCP server"
   homepage "https://github.com/TheSinding/teamsctl"
-  url "https://github.com/TheSinding/teamsctl/archive/refs/tags/0.7.tar.gz"
-  sha256 "2d6352c52eea00d12870daa371a39f18f5b7be37dcff7004ef447126276c58f2"
+  url "https://github.com/TheSinding/teamsctl/archive/refs/tags/0.7.1.tar.gz"
+  sha256 "86c9606ee51340ecd61e20bd4e7754791c561b82f64dc6cced7f4af6c2f70639"
   license "Unlicense"
 
   depends_on "go" => :build
